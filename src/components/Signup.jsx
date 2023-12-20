@@ -21,7 +21,7 @@ const Signup = () => {
           m={'auto'}
           my={'16'}
         >
-          <Heading>VIDEO HUB</Heading>
+          <Heading alignSelf="center">VIDEO HUB</Heading>
           <Avatar alignSelf={'center'} boxSize={'32'} />
 
           <Input
